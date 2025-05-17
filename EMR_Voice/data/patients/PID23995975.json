@@ -1,0 +1,20 @@
+{
+  "patient_id": "PID23995975",
+  "name": "Lakshmi Singh",
+  "age": 52,
+  "sex": "Female",
+  "mobile": "",
+  "visits": {
+    "VISIT49424304": {
+      "visit_type": "OPD",
+      "entries": [
+        {
+          "timestamp": "VISIT49424304",
+          "summary": "**Definition & Key Concerns**\n\nMrs. Singh is presenting with symptoms of fatigue, generalized weakness, exertional dyspnea, occasional palpitations, cognitive changes (brain fog), and pallor. These symptoms are suggestive of anemia, particularly given her vegetarian diet which may predispose her to certain nutritional deficiencies. Other potential causes of her symptoms could include cardiac conditions or endocrine disorders.\n\n**Differential Diagnosis**\n\n1. **Iron Deficiency Anemia**: This is the most likely diagnosis given her symptoms and vegetarian diet. Iron deficiency anemia can cause fatigue, weakness, pallor, and cognitive changes. The exertional dyspnea and palpitations could be due to the body's attempt to compensate for decreased oxygen-carrying capacity.\n\n2. **Cardiac Disease**: Conditions such as heart failure or ischemic heart disease could cause fatigue, exertional dyspnea, and palpitations. However, the presence of pallor and cognitive changes makes this less likely.\n\n3. **Hypothyroidism**: This condition can cause fatigue, weakness, and cognitive changes. However, it would not typically cause pallor or the cardiovascular symptoms that Mrs. Singh is experiencing.\n\n**Can\u2019t-Miss Diagnosis**\n\nCardiac disease, particularly ischemic heart disease, is a critical high-risk condition that must be ruled out given the potential for serious complications.\n\n**Suggested Investigations**\n\n1. Complete Blood Count (CBC): This will help identify if Mrs. Singh is anemic and provide information about her red blood cell indices which can help determine the cause of the anemia.\n\n2. Iron Studies: These tests will help confirm a diagnosis of iron deficiency anemia.\n\n3. Thyroid Function Tests: These tests will help rule out hypothyroidism as a cause of her symptoms.\n\n4. EKG and Echocardiogram: These tests will help rule out cardiac disease as a cause of her symptoms.\n\n**Management Plan**\n\nIf iron deficiency anemia is confirmed, Mrs. Singh should be started on oral iron supplementation. The typical dose is 150 to 200 mg of elemental iron per day. She should also be advised to increase her intake of iron-rich foods.\n\nIf cardiac disease is identified, management will depend on the specific condition but may include medications, lifestyle modifications, and potentially procedures or surgery.\n\nIf hypothyroidism is identified, Mrs. Singh should be started on levothyroxine. The dose will depend on her weight and TSH level.\n\n**Reference Insight**\n\nAccording to UpToDate, iron deficiency anemia is the most common type of anemia worldwide and is particularly common in women and individuals with dietary restrictions that limit their intake of iron-rich foods (UpToDate, 2023).",
+          "red_flags": null,
+          "prescription": ""
+        }
+      ]
+    }
+  }
+}

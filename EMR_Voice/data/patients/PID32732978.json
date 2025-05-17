@@ -1,0 +1,20 @@
+{
+  "patient_id": "PID32732978",
+  "name": "Simran Kaur ",
+  "age": 29,
+  "sex": "Female",
+  "mobile": "",
+  "visits": {
+    "VISIT16531380": {
+      "visit_type": "OPD",
+      "entries": [
+        {
+          "timestamp": "VISIT16531380",
+          "summary": "**Definition & Key Concerns**\n\nThe patient presents with vaginal spotting and lower abdominal cramping, which are common symptoms in early pregnancy. The key concern is to determine whether this represents a normal pregnancy, a threatened miscarriage, or an ectopic pregnancy.\n\n**Differential Diagnosis**\n\n1. **Threatened miscarriage**: This is the most common cause of first-trimester bleeding. The patient's symptoms of spotting and cramping are consistent with this diagnosis.\n\n2. **Ectopic pregnancy**: This is a less common but more serious cause of first-trimester bleeding. It should be considered in any pregnant woman with abdominal pain or vaginal bleeding.\n\n3. **Gestational trophoblastic disease**: This is a rare cause of first-trimester bleeding. It is associated with high levels of beta-hCG and abnormal ultrasound findings.\n\n**Can\u2019t-Miss Diagnosis**\n\nThe can't-miss diagnosis in this case is an ectopic pregnancy. This is a life-threatening condition that requires immediate diagnosis and treatment.\n\n**Suggested Investigations**\n\n1. **Serum beta-hCG**: This test can help determine if the pregnancy is viable. A low or decreasing level may suggest a miscarriage or ectopic pregnancy.\n\n2. **Transvaginal ultrasound**: This test can help visualize the pregnancy and determine its location. It can also identify any abnormalities that may be causing the bleeding.\n\n**Management Plan**\n\nThe management plan depends on the diagnosis. If a threatened miscarriage is diagnosed, the patient may be advised to rest and avoid sexual intercourse. If an ectopic pregnancy is diagnosed, the patient may require medical or surgical treatment. If gestational trophoblastic disease is diagnosed, the patient may require chemotherapy.\n\n**Reference Insight**\n\nAccording to UpToDate, the management of early pregnancy bleeding should focus on ruling out ectopic pregnancy, which is a life-threatening condition. If ectopic pregnancy is ruled out, the patient can be managed expectantly with close follow-up.",
+          "red_flags": null,
+          "prescription": ""
+        }
+      ]
+    }
+  }
+}

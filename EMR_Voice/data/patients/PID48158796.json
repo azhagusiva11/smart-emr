@@ -1,0 +1,20 @@
+{
+  "patient_id": "PID48158796",
+  "name": "Lakshmi Murthy",
+  "age": 68,
+  "sex": "Male",
+  "mobile": "",
+  "visits": {
+    "VISIT88216645": {
+      "visit_type": "OPD",
+      "entries": [
+        {
+          "timestamp": "VISIT88216645",
+          "summary": "**Definition & Key Concerns**\nThe patient's symptoms of gradual memory difficulties, word-finding problems, and getting lost in familiar places suggest cognitive decline. This could be due to a variety of conditions, including dementia, which is a chronic or progressive brain disorder affecting memory, thinking, behavior, and the ability to perform everyday tasks.\n\n**Differential Diagnosis**\n1. Alzheimer's disease: This is the most common form of dementia, characterized by gradual onset and progressive cognitive decline.\n2. Vascular dementia: This could be a possibility if there is a history of stroke or transient ischemic attacks. It often presents with stepwise decline in function.\n3. Mild cognitive impairment: This is a transitional stage between normal aging and dementia. Patients have cognitive complaints but do not meet the criteria for dementia.\n4. Depression: In elderly patients, depression can present with cognitive symptoms, often referred to as pseudodementia.\n5. Normal pressure hydrocephalus: This can present with cognitive decline, gait disturbance, and urinary incontinence.\n6. Other conditions such as thyroid disease, vitamin B12 deficiency, or side effects of medications can also cause cognitive symptoms.\n\n**Can\u2019t-Miss Diagnosis**\nAlzheimer's disease is a critical high-risk condition that must be ruled out, given its prevalence and impact on quality of life.\n\n**Suggested Investigations**\n1. Neuropsychological testing: This can help quantify the degree of cognitive impairment and identify specific patterns of cognitive deficits.\n2. Complete blood count, comprehensive metabolic panel, thyroid function tests, and vitamin B12 level: These can help rule out reversible causes of cognitive impairment.\n3. Brain imaging (CT or MRI): This can help rule out structural abnormalities such as tumor, stroke, or normal pressure hydrocephalus.\n4. If indicated, cerebrospinal fluid analysis or genetic testing for specific forms of dementia.\n\n**Management Plan**\nManagement will depend on the underlying cause of the cognitive decline. For Alzheimer's disease, acetylcholinesterase inhibitors (e.g., donepezil) and NMDA receptor antagonists (e.g., memantine) can be used. Non-pharmacological interventions such as cognitive stimulation therapy, physical activity, and a healthy diet can also be beneficial.\n\n**Reference Insight**\nAccording to the Alzheimer's Association, early detection and diagnosis of Alzheimer's disease or other dementias are important to ensure that patients and families can plan for the future, make living arrangements, develop support networks, and initiate treatment (Alzheimer's Association, 2021). The National Institute on Aging also emphasizes the importance of ruling out reversible causes of cognitive impairment (National Institute on Aging, 2021).",
+          "red_flags": null,
+          "prescription": ""
+        }
+      ]
+    }
+  }
+}

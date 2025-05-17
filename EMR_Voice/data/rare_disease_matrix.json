@@ -1,0 +1,137 @@
+{
+  "Kawasaki Disease": [
+    "fever",
+    "rash",
+    "red eyes",
+    "cracked lips",
+    "swollen lymph nodes",
+    "peeling skin"
+  ],
+  "Duchenne Muscular Dystrophy": [
+    "delayed walking",
+    "frequent falls",
+    "calf hypertrophy",
+    "Gower's sign",
+    "elevated ck"
+  ],
+  "Wilson's Disease": [
+    "tremor",
+    "jaundice",
+    "behavior change",
+    "slurred speech",
+    "low ceruloplasmin"
+  ],
+  "Porphyria": [
+    "abdominal pain",
+    "photosensitivity",
+    "vomiting",
+    "muscle weakness",
+    "dark urine"
+  ],
+  "Thalassemia Major": [
+    "severe anemia",
+    "pale skin",
+    "jaundice",
+    "enlarged spleen",
+    "growth failure"
+  ],
+  "Sickle Cell Disease": [
+    "joint pain",
+    "low oxygen",
+    "anemia",
+    "fever",
+    "splenic sequestration"
+  ],
+  "Systemic Lupus Erythematosus": [
+    "joint pain",
+    "fatigue",
+    "butterfly rash",
+    "mouth ulcers",
+    "photosensitivity"
+  ],
+  "Guillain-Barre Syndrome": [
+    "tingling",
+    "muscle weakness",
+    "absent reflexes",
+    "recent infection",
+    "ascending paralysis"
+  ],
+  "Juvenile Idiopathic Arthritis": [
+    "joint swelling",
+    "morning stiffness",
+    "fever",
+    "limping",
+    "rash"
+  ],
+  "Primary Immunodeficiency": [
+    "recurrent infections",
+    "growth failure",
+    "chronic diarrhea",
+    "low igg"
+  ],
+  "Fanconi Anemia": [
+    "short stature",
+    "anemia",
+    "skin pigmentation",
+    "thumb abnormalities",
+    "low blood counts"
+  ],
+  "Congenital Adrenal Hyperplasia": [
+    "ambiguous genitalia",
+    "vomiting",
+    "low sodium",
+    "high potassium",
+    "dehydration"
+  ],
+  "Galactosemia": [
+    "vomiting",
+    "cataracts",
+    "jaundice",
+    "hepatomegaly",
+    "poor feeding"
+  ],
+  "Hirschsprung\u2019s Disease": [
+    "no stool",
+    "vomiting",
+    "abdominal distension",
+    "delayed meconium"
+  ],
+  "Cystic Fibrosis": [
+    "chronic cough",
+    "salty skin",
+    "greasy stools",
+    "failure to thrive"
+  ],
+  "Rett Syndrome": [
+    "loss of speech",
+    "hand-wringing",
+    "seizures",
+    "decelerated head growth",
+    "autistic behavior"
+  ],
+  "Leigh Syndrome": [
+    "hypotonia",
+    "vomiting",
+    "developmental delay",
+    "seizures",
+    "eye movement abnormalities"
+  ],
+  "Tay-Sachs Disease": [
+    "loss of milestones",
+    "cherry red spot",
+    "exaggerated startle",
+    "seizures"
+  ],
+  "Hyper IgM Syndrome": [
+    "recurrent pneumonia",
+    "low igg",
+    "chronic diarrhea",
+    "lymphadenopathy"
+  ],
+  "Niemann-Pick Disease": [
+    "hepatosplenomegaly",
+    "developmental delay",
+    "hypotonia",
+    "cherry red spot"
+  ]
+}

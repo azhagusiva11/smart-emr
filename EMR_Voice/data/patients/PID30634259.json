@@ -1,0 +1,20 @@
+{
+  "patient_id": "PID30634259",
+  "name": "Amit",
+  "age": 5,
+  "sex": "Male",
+  "mobile": "",
+  "visits": {
+    "VISIT55779437": {
+      "visit_type": "OPD",
+      "entries": [
+        {
+          "timestamp": "VISIT55779437",
+          "summary": "**Definition & Key Concerns**\nThis case likely represents a neonatal bowel obstruction, a condition where there is a blockage that prevents normal passage of meconium and gas through the intestines. The primary concern is the identification of the cause of obstruction and prompt intervention to prevent complications such as bowel ischemia, perforation, and sepsis.\n\n**Differential Diagnosis**\n1. **Hirschsprung's disease**: This is the most common cause of neonatal intestinal obstruction. It is characterized by a lack of ganglion cells in the myenteric and submucosal plexuses of the distal bowel, resulting in functional obstruction.\n2. **Meconium ileus**: This is often associated with cystic fibrosis and is characterized by thick, sticky meconium obstructing the ileum.\n3. **Meconium plug syndrome**: This is a transient form of neonatal colonic obstruction where meconium forms a plug, obstructing the lumen of the bowel.\n4. **Anorectal malformations**: These are congenital anomalies that can cause obstruction.\n5. **Small left colon syndrome**: This is a transient form of neonatal colonic obstruction often associated with maternal diabetes.\n\n**Can\u2019t-Miss Diagnosis**\nHirschsprung's disease is a critical high-risk condition that must be ruled out due to its high prevalence and potential for severe complications if not promptly diagnosed and treated.\n\n**Suggested Investigations**\n1. **Abdominal X-ray**: This is the initial imaging study of choice. It can show signs of obstruction such as dilated bowel loops and air-fluid levels.\n2. **Contrast enema**: This can help differentiate between causes of obstruction. It can show a transition zone in Hirschsprung's disease or microcolon in meconium ileus.\n3. **Rectal biopsy**: This is the definitive diagnostic test for Hirschsprung's disease, showing absence of ganglion cells.\n\n**Management Plan**\nManagement depends on the underlying cause. For Hirschsprung's disease, the definitive treatment is surgical resection of the aganglionic segment. In the case of meconium ileus, initial management may include Gastrografin enema to help clear the meconium plug. All patients should be stabilized with intravenous fluids and nasogastric decompression prior to definitive treatment.\n\n**Reference Insight**\nThe approach to a neonate with suspected bowel obstruction is outlined in UpToDate and Harrison's Principles of Internal Medicine. These resources emphasize the importance of prompt diagnosis and management to prevent serious complications.",
+          "red_flags": "Hirschsprung\u2019s Disease (matched 3 symptoms)",
+          "prescription": ""
+        }
+      ]
+    }
+  }
+}

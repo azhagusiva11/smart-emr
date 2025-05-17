@@ -1,0 +1,20 @@
+{
+  "patient_id": "PID81214737",
+  "name": "Ali",
+  "age": 5,
+  "sex": "Male",
+  "mobile": "",
+  "visits": {
+    "VISIT14325377": {
+      "visit_type": "OPD",
+      "entries": [
+        {
+          "timestamp": "VISIT14325377",
+          "summary": "**Definition & Key Concerns**\n\nThe patient's symptoms suggest an inflammation of the parotid gland, which could be due to either mumps or bacterial parotitis. Both conditions can cause painful swelling of the parotid gland, fever, and malaise. Difficulty opening the mouth may be due to trismus caused by inflammation or infection spreading to nearby muscles.\n\n**Differential Diagnosis**\n\n1. **Bacterial parotitis**: This is more likely in this case due to the acute onset of symptoms. Bacterial parotitis often presents with rapid onset of unilateral parotid gland swelling, pain, fever, and purulent discharge from the Stensen's duct. \n\n2. **Mumps**: Although mumps can cause similar symptoms, it is less likely in this case unless the patient is unvaccinated or in a community with a mumps outbreak. Mumps often presents with bilateral parotid gland swelling, and systemic symptoms like headache, muscle aches, and fatigue.\n\n**Can\u2019t-Miss Diagnosis**\n\nBacterial parotitis can lead to serious complications if not treated promptly, including abscess formation and sepsis. It is therefore crucial to rule out this condition.\n\n**Suggested Investigations**\n\n1. **Blood cultures**: To identify the causative organism in case of bacterial parotitis.\n2. **Parotid gland ultrasound**: To evaluate for abscess or other complications.\n3. **Mumps serology**: To rule out mumps if the patient is unvaccinated or in a mumps outbreak area.\n\n**Management Plan**\n\n1. **Bacterial parotitis**: Empirical antibiotic therapy should be started immediately, typically with a penicillinase-resistant penicillin like nafcillin or a first-generation cephalosporin like cefazolin. If MRSA is suspected, vancomycin or daptomycin can be used. Adequate hydration and sialogogues (substances that stimulate saliva production) like lemon drops can also help.\n2. **Mumps**: Management is mainly supportive, including rest, hydration, and analgesics for pain. \n\n**Reference Insight**\n\nAccording to UpToDate, the choice of antibiotics for bacterial parotitis should cover Staphylococcus aureus, including MRSA, and anaerobes. For mumps, there is no specific antiviral therapy, and the MMR vaccine is the best prevention strategy (UpToDate, 2023).",
+          "red_flags": null,
+          "prescription": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "patient_id": "PID74841948",
+  "name": "Sneha Reddy ",
+  "age": 19,
+  "sex": "Male",
+  "mobile": "",
+  "visits": {
+    "VISIT58819116": {
+      "visit_type": "OPD",
+      "entries": [
+        {
+          "timestamp": "VISIT58819116",
+          "summary": "**Definition & Key Concerns**\n\nMs. Reddy's symptoms of hand tremor, clumsiness, slurred speech, jaundice, and behavioral changes suggest a condition affecting both the nervous system and the liver. Her age and the progressive nature of her symptoms are concerning. The request for serum ceruloplasmin and liver function tests suggest a suspicion of Wilson's disease.\n\n**Differential Diagnosis**\n\n1. **Wilson's Disease**: This is the most likely diagnosis given the combination of neurological and hepatic symptoms in a young adult. Wilson's disease is a genetic disorder causing excessive copper accumulation in the body, leading to neurological and hepatic damage. \n\n2. **Hepatic Encephalopathy**: This condition is usually seen in patients with chronic liver disease, leading to neurological symptoms. However, it's less likely in this case due to the patient's age and absence of known liver disease.\n\n3. **Neurodegenerative Disorders**: Conditions like Huntington's disease or Parkinson's disease could cause similar neurological symptoms, but they would not explain the jaundice.\n\n**Can\u2019t-Miss Diagnosis**\n\nWilson's disease is a critical high-risk condition that must be ruled out. If left untreated, it can lead to severe, irreversible neurological damage and liver failure.\n\n**Suggested Investigations**\n\n1. **Serum Ceruloplasmin**: Low levels are suggestive of Wilson's disease.\n2. **Liver Function Tests**: These can reveal hepatic damage.\n3. **24-hour Urinary Copper Excretion**: Elevated levels are seen in Wilson's disease.\n4. **Slit-lamp Examination for Kayser-Fleischer Rings**: These copper deposits in the eye are a classic sign of Wilson's disease.\n5. **Liver Biopsy**: This can confirm excessive hepatic copper accumulation.\n\n**Management Plan**\n\nIf Wilson's disease is confirmed, treatment involves reducing copper accumulation and preventing further damage. This may include:\n\n1. **Chelating Agents**: Drugs like penicillamine or trientine that bind to copper and promote its excretion.\n2. **Zinc**: This blocks the absorption of copper from the gut.\n3. **Low-Copper Diet**: Avoiding foods high in copper can help reduce accumulation.\n4. **Liver Transplantation**: In severe cases or if there's poor response to medical therapy, a liver transplant may be necessary.\n\n**Reference Insight**\n\nAccording to UpToDate (2023), early diagnosis and treatment of Wilson's disease can prevent progression and lead to a normal lifespan. However, delayed diagnosis can result in irreversible neurological damage and liver failure. Therefore, it's crucial to consider this condition in young adults presenting with unexplained neurological and hepatic symptoms.",
+          "red_flags": "Wilson's Disease (matched 3 symptoms)",
+          "prescription": ""
+        }
+      ]
+    }
+  }
+}

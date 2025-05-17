@@ -1,0 +1,20 @@
+{
+  "patient_id": "PID27976694",
+  "name": "Rina D Souza",
+  "age": 30,
+  "sex": "Female",
+  "mobile": "",
+  "visits": {
+    "VISIT51223332": {
+      "visit_type": "OPD",
+      "entries": [
+        {
+          "timestamp": "VISIT51223332",
+          "summary": "**Definition & Key Concerns**\n\nThe patient's symptoms of recurrent severe abdominal pain, vomiting, photosensitivity, and dark urine are suggestive of a type of porphyria. Porphyrias are a group of rare genetic disorders caused by an enzyme deficiency in the heme biosynthesis pathway. This leads to an accumulation of porphyrins or porphyrin precursors, which can cause a wide range of neurological, gastrointestinal, and dermatological symptoms.\n\n**Differential Diagnosis**\n\n1. **Acute Intermittent Porphyria (AIP)**: This is the most common form of acute porphyria. The symptoms of AIP, including severe abdominal pain, vomiting, and dark urine, match the patient's presentation. Photosensitivity is not typically associated with AIP, but it can occur in some cases.\n\n2. **Porphyria Cutanea Tarda (PCT)**: This form of porphyria primarily causes skin symptoms, such as photosensitivity and blistering, but can also cause abdominal pain and dark urine.\n\n3. **Variegate Porphyria (VP) or Hereditary Coproporphyria (HCP)**: These forms of porphyria can cause both acute attacks (abdominal pain, vomiting) and skin symptoms (photosensitivity, blistering).\n\n**Can\u2019t-Miss Diagnosis**\n\nThe critical high-risk condition to rule out in this case is Acute Intermittent Porphyria, given the severity of the abdominal pain and the potential for life-threatening complications, such as seizures and paralysis.\n\n**Suggested Investigations**\n\n1. **Urine Porphobilinogen (PBG) Test**: This is the most important initial test for diagnosing acute porphyrias, including AIP.\n\n2. **Plasma Porphyrins Test**: This can help diagnose PCT and other forms of porphyria that cause skin symptoms.\n\n3. **Fecal Porphyrins Test**: This can help diagnose VP and HCP.\n\n4. **Genetic Testing**: This can confirm the diagnosis and identify the specific type of porphyria.\n\n**Management Plan**\n\n1. **Avoidance of Triggers**: Certain medications, alcohol, and fasting can trigger acute porphyria attacks and should be avoided.\n\n2. **Hemin Therapy**: This is the treatment of choice for acute porphyria attacks. It works by suppressing the production of porphyrins.\n\n3. **Pain Management**: This is important for managing the severe abdominal pain associated with porphyria attacks.\n\n**Reference Insight**\n\nThe diagnosis and management of porphyria are complex and require a high degree of clinical suspicion. The American Porphyria Foundation and the European Porphyria Network provide guidelines for the diagnosis and management of these conditions (UpToDate, 2023).",
+          "red_flags": "Porphyria (matched 3 symptoms)",
+          "prescription": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "patient_id": "PID88067954",
+  "name": "Yusuf Mohamed ",
+  "age": 25,
+  "sex": "Male",
+  "mobile": "",
+  "visits": {
+    "VISIT83694643": {
+      "visit_type": "OPD",
+      "entries": [
+        {
+          "timestamp": "VISIT83694643",
+          "summary": "**Definition & Key Concerns**\n\nThis patient's presentation of high fever, severe joint pain, headache, rash, and recent history of mosquito bites is suggestive of a mosquito-borne viral illness. Dengue and Chikungunya are top considerations given the clinical picture. Severe disease can manifest as Dengue Hemorrhagic Fever or Dengue Shock Syndrome in the case of Dengue, and chronic debilitating arthritis in the case of Chikungunya.\n\n**Differential Diagnosis**\n\n1. **Dengue Fever**: The patient's symptoms of high fever, severe joint pain, headache, and rash are classic for Dengue. The recent history of mosquito bites further supports this diagnosis.\n\n2. **Chikungunya**: This also presents with fever, severe joint pain, and rash. However, Chikungunya is typically associated with more severe and persistent joint pain.\n\n3. **Zika Virus**: Although less likely, Zika virus should also be considered given the mosquito exposure. However, Zika is often asymptomatic or mild, and severe joint pain is less common.\n\n**Can\u2019t-Miss Diagnosis**\n\nDengue Fever is a can't-miss diagnosis in this case due to the potential for progression to severe disease such as Dengue Hemorrhagic Fever or Dengue Shock Syndrome.\n\n**Suggested Investigations**\n\n1. **Serologic testing**: Dengue and Chikungunya can be diagnosed by serologic tests (IgM antibody capture enzyme-linked immunosorbent assay).\n\n2. **RT-PCR**: This can detect the viral RNA of Dengue and Chikungunya in the blood during the first week of illness.\n\n**Management Plan**\n\nManagement is primarily supportive as there are no specific antiviral treatments for Dengue or Chikungunya.\n\n1. **Hydration**: Adequate fluid intake is important to prevent dehydration.\n\n2. **Analgesics**: Pain can be managed with acetaminophen. NSAIDs should be avoided until Dengue is ruled out due to the risk of hemorrhage.\n\n3. **Monitoring**: Patients should be closely monitored for signs of severe disease, such as persistent vomiting, severe abdominal pain, bleeding, or confusion.\n\n**Reference Insight**\n\nAccording to UpToDate, the diagnosis of Dengue and Chikungunya is primarily clinical, supported by epidemiologic information such as travel to an endemic area. Laboratory confirmation is important but may not be available in all settings. The management of these conditions is primarily supportive.",
+          "red_flags": null,
+          "prescription": ""
+        }
+      ]
+    }
+  }
+}

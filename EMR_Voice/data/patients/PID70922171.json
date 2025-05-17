@@ -1,0 +1,20 @@
+{
+  "patient_id": "PID70922171",
+  "name": "Varun",
+  "age": 6,
+  "sex": "Male",
+  "mobile": "",
+  "visits": {
+    "VISIT28015541": {
+      "visit_type": "OPD",
+      "entries": [
+        {
+          "timestamp": "VISIT28015541",
+          "summary": "**Definition & Key Concerns**\nThe patient's history of a fall with an outstretched hand, combined with severe pain, visible deformity, and swelling in the right forearm, suggests a likely forearm fracture. This could involve the radius, ulna, or both bones.\n\n**Differential Diagnosis**\n1. **Forearm Fracture (both radius and ulna)**: The mechanism of injury, severe pain, visible deformity, and swelling make this the most likely diagnosis.\n2. **Distal Radius Fracture (Colles' or Smith's fracture)**: These are common fractures that can occur from a fall on an outstretched hand, but they typically present with a deformity at the wrist, not the forearm.\n3. **Ulnar Fracture**: An isolated ulnar fracture is less common but possible.\n4. **Soft Tissue Injury**: This is less likely given the visible deformity, but severe soft tissue injuries can sometimes mimic fractures.\n\n**Can\u2019t-Miss Diagnosis**\nA forearm fracture is the can't-miss diagnosis in this case due to the mechanism of injury and clinical presentation. Complications such as compartment syndrome or neurovascular injury should be ruled out.\n\n**Suggested Investigations**\n1. **X-ray of the forearm (AP and lateral views)**: This is the first-line imaging test for suspected forearm fractures. It can confirm the diagnosis and provide information about the location, type, and severity of the fracture.\n2. **Neurovascular examination**: To assess for potential neurovascular injury, which can be a complication of forearm fractures.\n\n**Management Plan**\n1. **Pain Management**: Administer analgesics as needed. Options include Acetaminophen (1g orally every 6 hours as needed) or Ibuprofen (400-600mg orally every 6 hours as needed).\n2. **Immobilization**: Initially, a splint can be applied to immobilize the forearm and reduce pain. The forearm should be immobilized in a position of function (slight flexion at the wrist and elbow, with the forearm in neutral or slight supination).\n3. **Orthopedic Consultation**: Depending on the severity and type of fracture, the patient may need orthopedic consultation for possible surgical intervention.\n4. **Tetanus Prophylaxis**: If the skin is broken, tetanus prophylaxis should be considered.\n\n**Reference Insight**\nAccording to UpToDate, initial management of forearm fractures includes pain control, immobilization, and orthopedic consultation. X-ray is the first-line imaging test for suspected fractures (UpToDate, 2023).",
+          "red_flags": null,
+          "prescription": ""
+        }
+      ]
+    }
+  }
+}

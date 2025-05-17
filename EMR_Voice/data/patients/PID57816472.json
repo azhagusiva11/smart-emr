@@ -1,0 +1,20 @@
+{
+  "patient_id": "PID57816472",
+  "name": "Geeta Rao",
+  "age": 48,
+  "sex": "Female",
+  "mobile": "",
+  "visits": {
+    "VISIT56522849": {
+      "visit_type": "OPD",
+      "entries": [
+        {
+          "timestamp": "VISIT56522849",
+          "summary": "**Definition & Key Concerns**\n\nThe patient's symptoms of hot flashes, night sweats, irregular menstrual periods, and mood swings are suggestive of perimenopause. Perimenopause is the transition period to menopause, characterized by hormonal changes that lead to the cessation of menstrual periods. It can last for several years and can cause a variety of symptoms that can affect quality of life.\n\n**Differential Diagnosis**\n\n1. Perimenopause: This is the most likely diagnosis given the patient's age, symptoms, and irregular menstrual periods.\n2. Menopause: If the patient has not had a period for 12 months, she may be in menopause.\n3. Thyroid disease: Hyperthyroidism can cause similar symptoms, such as hot flashes and irregular periods.\n4. Premature ovarian failure: This condition can cause menopause-like symptoms in younger women.\n\n**Can\u2019t-Miss Diagnosis**\n\nThyroid disease is a critical high-risk condition that must be ruled out as it can mimic perimenopausal symptoms but requires different management.\n\n**Suggested Investigations**\n\n1. Thyroid function tests: To rule out thyroid disease.\n2. FSH level: Elevated levels can suggest perimenopause or menopause.\n3. Estradiol level: Decreased levels can suggest perimenopause or menopause.\n\n**Management Plan**\n\n1. Lifestyle modifications: Regular exercise, balanced diet, and good sleep hygiene can help manage symptoms.\n2. Hormone replacement therapy (HRT): If symptoms are severe and affecting quality of life, HRT can be considered. HRT can help reduce hot flashes and night sweats. However, it can also increase the risk of breast cancer, stroke, and blood clots. The decision to start HRT should be individualized and discussed thoroughly with the patient.\n3. Non-hormonal therapies: Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), and gabapentin can be used to manage hot flashes.\n\n**Reference Insight**\n\nThe North American Menopause Society (NAMS) and the Endocrine Society recommend individualized approach in managing perimenopausal symptoms. They suggest considering the severity of symptoms, the impact on quality of life, and the patient's personal and family medical history when deciding on treatment (UpToDate, 2023).",
+          "red_flags": null,
+          "prescription": ""
+        }
+      ]
+    }
+  }
+}

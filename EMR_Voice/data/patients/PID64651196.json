@@ -1,0 +1,20 @@
+{
+  "patient_id": "PID64651196",
+  "name": "Priya",
+  "age": 3,
+  "sex": "Female",
+  "mobile": "",
+  "visits": {
+    "VISIT10708227": {
+      "visit_type": "OPD",
+      "entries": [
+        {
+          "timestamp": "VISIT10708227",
+          "summary": "**Definition & Key Concerns**\nThis case likely represents congenital adrenal hyperplasia (CAH), a group of autosomal recessive disorders characterized by impaired cortisol production. The most common form is 21-hydroxylase deficiency. The baby's ambiguous genitalia, vomiting, lethargy, and signs of dehydration are suggestive of an adrenal crisis, which is a life-threatening condition that requires immediate treatment.\n\n**Differential Diagnosis**\n1. Congenital Adrenal Hyperplasia (CAH): The most likely diagnosis given the ambiguous genitalia and signs of adrenal crisis.\n2. Adrenal Hypoplasia: This condition can present similarly to CAH, but ambiguous genitalia is less common.\n3. Salt-wasting nephropathy: This can cause similar symptoms but is less likely due to the presence of ambiguous genitalia.\n\n**Can\u2019t-Miss Diagnosis**\nThe critical high-risk condition that must be ruled out is Congenital Adrenal Hyperplasia, as it can lead to life-threatening adrenal crisis if not promptly treated.\n\n**Suggested Investigations**\nKey electrolytes to check include sodium and potassium, as CAH can lead to hyponatremia and hyperkalemia. Other tests include serum 17-hydroxyprogesterone, androstenedione, and cortisol levels. A karyotype analysis can be done to confirm the sex of the baby.\n\n**Management Plan**\nInitial management involves fluid resuscitation with 0.9% saline and correction of electrolyte abnormalities. Hydrocortisone should be started immediately (dose: 25 mg/m2/day divided into three doses). Fludrocortisone may also be needed for mineralocorticoid replacement. The baby should be referred to a pediatric endocrinologist for long-term management.\n\n**Reference Insight**\nAccording to UpToDate, immediate treatment of adrenal crisis includes fluid resuscitation, correction of hypoglycemia, and administration of stress doses of hydrocortisone. Long-term management of CAH involves glucocorticoid and mineralocorticoid replacement, and monitoring for complications.",
+          "red_flags": "Congenital Adrenal Hyperplasia (matched 3 symptoms)",
+          "prescription": ""
+        }
+      ]
+    }
+  }
+}

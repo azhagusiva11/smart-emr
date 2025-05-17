@@ -1,0 +1,20 @@
+{
+  "patient_id": "PID22533677",
+  "name": "Sharma",
+  "age": 9,
+  "sex": "Male",
+  "mobile": "",
+  "visits": {
+    "VISIT14763986": {
+      "visit_type": "OPD",
+      "entries": [
+        {
+          "timestamp": "VISIT14763986",
+          "summary": "**Definition & Key Concerns**\n\nThis infant's clinical presentation of severe pallor, poor feeding, failure to thrive, jaundice, and hepatosplenomegaly, along with laboratory findings of severe anemia, suggest a hemolytic anemia. Hemolytic anemias are conditions in which red blood cells are destroyed prematurely, leading to a decrease in their lifespan. In this case, the infant's severe anemia and hepatosplenomegaly could indicate a congenital hemolytic anemia, such as a hemoglobinopathy or red cell membrane disorder.\n\n**Differential Diagnosis**\n\n1. **Hereditary spherocytosis**: This is a common cause of congenital hemolytic anemia. The clinical features, including jaundice and splenomegaly, are consistent with this diagnosis. \n\n2. **Thalassemia major (Cooley's anemia)**: This is a severe form of beta-thalassemia that presents in infancy with severe anemia, failure to thrive, and hepatosplenomegaly.\n\n3. **Sickle cell disease**: This is a less likely possibility given the age of the infant, as symptoms typically do not present until after 6 months of age. However, it should still be considered given the severe anemia and hepatosplenomegaly.\n\n**Can\u2019t-Miss Diagnosis**\n\nHereditary spherocytosis and thalassemia major are critical high-risk conditions that must be ruled out due to their potential for severe complications, including life-threatening anemia, iron overload, and infections.\n\n**Suggested Investigations**\n\nA hemoglobin electrophoresis should be performed to identify abnormal hemoglobin variants, which could suggest a diagnosis of thalassemia or sickle cell disease. Additionally, a peripheral blood smear should be examined for abnormal red cell morphology, such as spherocytes, which could indicate hereditary spherocytosis. \n\n**Management Plan**\n\nManagement will depend on the specific diagnosis. In general, treatment of severe hemolytic anemia may involve blood transfusions to correct the anemia, folic acid supplementation to support increased red cell production, and in some cases, splenectomy. \n\n**Reference Insight**\n\nThe American Society of Hematology recommends that infants with severe hemolytic anemia and hepatosplenomegaly undergo a thorough evaluation, including hemoglobin electrophoresis and peripheral blood smear, to identify the underlying cause (ASH, 2020). Early diagnosis and treatment can help prevent complications and improve outcomes. \n\nReference: American Society of Hematology. (2020). Guidelines for the Management of Hemolytic Anemias.",
+          "red_flags": "Thalassemia Major (matched 3 symptoms)",
+          "prescription": ""
+        }
+      ]
+    }
+  }
+}

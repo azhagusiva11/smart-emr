@@ -1,0 +1,20 @@
+{
+  "patient_id": "PID29303312",
+  "name": "Tanvi Shah",
+  "age": 18,
+  "sex": "Female",
+  "mobile": "",
+  "visits": {
+    "VISIT78685059": {
+      "visit_type": "OPD",
+      "entries": [
+        {
+          "timestamp": "VISIT78685059",
+          "summary": "**Definition & Key Concerns**\n\nThe patient's symptoms suggest a possibility of Dermatitis Herpetiformis (DH), a chronic, intensely pruritic, blistering skin disease that is associated with gluten sensitivity and celiac disease. The gastrointestinal symptoms may be indicative of underlying celiac disease.\n\n**Differential Diagnosis**\n\n1. Dermatitis Herpetiformis: The presence of a pruritic, vesicular rash on extensor surfaces along with gastrointestinal symptoms is highly suggestive of DH. \n\n2. Psoriasis: This condition can also present with a rash on the elbows, knees, and scalp. However, it is less likely given the absence of typical silvery scales and the presence of gastrointestinal symptoms.\n\n3. Atopic Dermatitis (Eczema): This condition can cause an itchy rash, but it usually affects other areas such as the folds of the arms or the back of the knees.\n\n4. Contact Dermatitis: This could be a possibility if the patient has been exposed to an allergen or irritant, but the chronic nature and specific distribution of the rash make it less likely.\n\n**Can\u2019t-Miss Diagnosis**\n\nCeliac Disease: Given the association between DH and celiac disease, it is important to rule out this condition, which can have serious complications if left untreated.\n\n**Suggested Investigations**\n\n1. Serologic testing: IgA tissue transglutaminase (TTG) antibody test can be used as an initial screening for celiac disease. \n\n2. Skin biopsy: This is the definitive diagnostic test for DH. It involves taking a sample from unaffected skin adjacent to a fresh lesion for immunofluorescence studies.\n\n3. Duodenal biopsy: If the IgA TTG test is positive, a duodenal biopsy may be performed to confirm the diagnosis of celiac disease.\n\n**Management Plan**\n\n1. Dapsone: This is the first-line treatment for DH. It can provide rapid relief from itching and new blister formation.\n\n2. Gluten-free diet: This is the mainstay of treatment for both DH and celiac disease. Adherence to a strict gluten-free diet can help to control symptoms and prevent complications.\n\n**Reference Insight**\n\nAccording to UpToDate, the majority of patients with DH also have celiac disease, even if they do not have gastrointestinal symptoms. Therefore, all patients with DH should be screened for celiac disease (UpToDate, 2023).",
+          "red_flags": null,
+          "prescription": ""
+        }
+      ]
+    }
+  }
+}

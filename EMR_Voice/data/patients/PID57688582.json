@@ -1,0 +1,20 @@
+{
+  "patient_id": "PID57688582",
+  "name": "Rajesh Kumar",
+  "age": 62,
+  "sex": "Male",
+  "mobile": "",
+  "visits": {
+    "VISIT58797885": {
+      "visit_type": "OPD",
+      "entries": [
+        {
+          "timestamp": "VISIT58797885",
+          "summary": "**Definition & Key Concerns**\nThe patient's symptoms suggest a possible Acute Coronary Syndrome (ACS), which includes unstable angina and myocardial infarction (with or without ST-segment elevation). The key concern is that this could represent a life-threatening cardiac event.\n\n**Differential Diagnosis**\n1. **Acute Coronary Syndrome (ACS)**: The patient's chest pain, radiating to the left arm, associated with nausea and sweating are classic symptoms of ACS. The patient's history of Type 2 Diabetes Mellitus and Hypertension also increases the risk.\n2. **Angina Pectoris**: This could be a severe episode of angina, but the presence of nausea and sweating suggests more likely ACS.\n3. **Aortic Dissection**: Although less likely, the sudden onset of chest pain could indicate aortic dissection. However, this is less likely given the radiation to the left arm and associated symptoms.\n4. **Gastroesophageal Reflux Disease (GERD)**: Chest pain could be due to GERD, but the radiation to the left arm and associated symptoms make this less likely.\n\n**Can\u2019t-Miss Diagnosis**\nThe critical high-risk condition that must be ruled out immediately is Acute Coronary Syndrome (ACS).\n\n**Suggested Investigations**\n1. **Electrocardiogram (ECG)**: This is the most immediate and critical investigation. Look for ST-segment elevation or depression, T-wave inversion, or new Q waves.\n2. **Cardiac Biomarkers (Troponin)**: These should be measured on presentation and repeated as necessary.\n3. **Chest X-ray**: To rule out other causes of chest pain such as aortic dissection or pneumothorax.\n\n**Management Plan**\n1. **Immediate Actions**: Administer oxygen if SpO2 < 94%, monitor vital signs, establish IV access.\n2. **Initial Medications**: Administer aspirin (162-325 mg chewed) immediately unless contraindicated. Nitroglycerin (0.4 mg sublingual) can be given for ongoing chest pain. Morphine can be considered if pain is not relieved.\n3. **Further Management**: If ECG and biomarkers confirm ACS, initiate antiplatelet therapy (e.g., clopidogrel, ticagrelor) and consider anticoagulation (e.g., heparin). Consult cardiology for possible coronary angiography and reperfusion therapy.\n\n**Reference Insight**\nThe management plan is in line with the 2020 American College of Cardiology (ACC)/American Heart Association (AHA) guidelines for the management of patients with non-ST-elevation ACS. (UpToDate 2023)",
+          "red_flags": null,
+          "prescription": ""
+        }
+      ]
+    }
+  }
+}

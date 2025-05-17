@@ -1,0 +1,20 @@
+{
+  "patient_id": "PID52266244",
+  "name": "Deepa Iyer",
+  "age": 35,
+  "sex": "Female",
+  "mobile": "",
+  "visits": {
+    "VISIT75851263": {
+      "visit_type": "OPD",
+      "entries": [
+        {
+          "timestamp": "VISIT75851263",
+          "summary": "**Definition & Key Concerns**\n\nThis patient presents with a chronic cough, defined as a cough lasting more than 8 weeks. The absence of fever and other systemic symptoms makes an acute infectious cause less likely. The key concern here is to identify the underlying cause of the cough, which can range from benign to serious conditions.\n\n**Differential Diagnosis**\n\n1. **Gastroesophageal reflux disease (GERD)**: This is a common cause of chronic cough, especially if it's worse at night. The patient may not always have typical symptoms of heartburn or regurgitation.\n\n2. **Asthma**: Cough-variant asthma can present as a chronic cough without other typical symptoms like wheezing or dyspnea.\n\n3. **Postnasal drip syndrome**: This can cause a chronic cough due to the constant irritation of the throat by mucus from the nasal passages and sinuses.\n\n4. **Medication-induced cough**: Certain medications, particularly ACE inhibitors, can cause a chronic cough.\n\n5. **Chronic bronchitis or COPD**: This is less likely in a patient with no smoking history or occupational exposures, but should still be considered.\n\n**Can\u2019t-Miss Diagnosis**\n\nWhile there is no immediate life-threatening diagnosis in this case, it's important not to miss conditions like lung cancer or tuberculosis, especially in high-risk patients.\n\n**Suggested Investigations**\n\n1. **Chest X-ray**: To rule out any lung pathology.\n2. **Spirometry**: To assess for any obstructive or restrictive lung disease.\n3. **Upper GI endoscopy or trial of proton pump inhibitors (PPIs)**: If GERD is suspected.\n4. **Nasal endoscopy or sinus CT**: If postnasal drip syndrome is suspected.\n\n**Management Plan**\n\nThe management will depend on the underlying cause. If GERD is suspected, a trial of PPIs (e.g., omeprazole 20 mg daily) could be initiated. If asthma is suspected, a trial of inhaled corticosteroids (e.g., fluticasone 100 mcg twice daily) and bronchodilators (e.g., salbutamol as needed) could be considered. If postnasal drip is suspected, antihistamines or nasal steroids may be beneficial.\n\n**Reference Insight**\n\nAccording to UpToDate, the most common causes of chronic cough in adults are upper airway cough syndrome (UACS), asthma, and GERD. A systematic approach to the evaluation of chronic cough is recommended, including a thorough history, physical examination, and targeted diagnostic testing (UpToDate, 2023).",
+          "red_flags": null,
+          "prescription": ""
+        }
+      ]
+    }
+  }
+}
