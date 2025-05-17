@@ -6,7 +6,8 @@ import fitz  # PyMuPDF
 import openai
 
 # Load full rare disease symptom matrix from file
-with open("data/rare_disease_matrix.json") as f:
+json_path = os.path.join(os.path.dirname(__file__), "../data/rare_disease_matrix.json")
+with open(json_path, "r", encoding="utf-8") as f:
     rare_disease_matrix = json.load(f)
 
 # Set OpenAI API key
